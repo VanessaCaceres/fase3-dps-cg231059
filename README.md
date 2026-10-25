@@ -1,4 +1,4 @@
-# Mi App – Versión móvil (Primera entrega)
+# Mi App – Versión móvil 
 
 Aplicación móvil desarrollada con **React Native (Expo)** y **React Navigation**, basada en los mockups de Figma de la Etapa 1.
 
