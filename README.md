@@ -40,5 +40,4 @@ src/
 La autenticación es simulada en memoria (sin backend) para esta primera entrega.
 
 ## Integrantes
-- {Nombre 1}
-- {Nombre 2}
+-VANESSA IVETTE CACERES GUZMAN CG231059
